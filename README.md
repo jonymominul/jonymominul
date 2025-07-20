@@ -1,15 +1,15 @@
-# Md Mominul Islam Jony 👨‍💻
+# Md Mominul Islam Jony 🖥️
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-mominul-islam-jony-964484194/)
 
-## Little Bit About Meself 🚀
+## Little Bit About Meself 😎
 
 IT Assistant (Government Project) at Bureau of Manpower Employment & Training with hands-on experience in system support, software configuration, and ERP implementation. Passionate about streamlining operations and solving practical IT challenges.
 
-🔭 I’m currently involved in managing local networks, troubleshooting hardware/software issues, and supporting ERP system integration and IT documentation.
+🛠️ I’m currently involved in managing local networks, troubleshooting hardware/software issues, and supporting ERP system integration and IT documentation.
 
-🌱 I’m currently expanding my skills through a DevOps course, focusing on Linux system administration, CI/CD pipelines, and cloud infrastructure.
+🧐 I’m currently expanding my skills through a DevOps course, focusing on Linux system administration, CI/CD pipelines, and cloud infrastructure.
 
 ## 🛠️ Tech Stack
 ### Languages & Frameworks
