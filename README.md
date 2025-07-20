@@ -1,7 +1,7 @@
 # Md Mominul Islam Jony 👨‍💻
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)][https://www.linkedin.com/in/md-mominul-islam-jony-964484194/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-mominul-islam-jony-964484194/)
 
 ## Little Bit About Meself 🚀
 
@@ -39,6 +39,6 @@ IT Assistant (Government Project) at Bureau of Manpower Employment & Training wi
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mominul-islam-jony-964484194/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][https://github.com/jonymominul]
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonymominul)
 
 </div>
